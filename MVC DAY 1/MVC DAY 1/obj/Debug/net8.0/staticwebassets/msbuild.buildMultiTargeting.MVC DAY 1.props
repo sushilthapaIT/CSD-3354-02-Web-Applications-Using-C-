@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVC DAY 1.props" />
+</Project>

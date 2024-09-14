@@ -1,0 +1,30 @@
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\bin\Debug\net8.0\appsettings.json
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\bin\Debug\net8.0\MVC DAY 1.staticwebassets.runtime.json
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\bin\Debug\net8.0\MVC DAY 1.exe
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\bin\Debug\net8.0\MVC DAY 1.deps.json
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\bin\Debug\net8.0\MVC DAY 1.runtimeconfig.json
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\bin\Debug\net8.0\MVC DAY 1.dll
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\bin\Debug\net8.0\MVC DAY 1.pdb
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\MVC DAY 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\MVC DAY 1.AssemblyInfoInputs.cache
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\MVC DAY 1.AssemblyInfo.cs
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\MVC DAY 1.csproj.CoreCompileInputs.cache
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\MVC DAY 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\MVC DAY 1.RazorAssemblyInfo.cache
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\MVC DAY 1.RazorAssemblyInfo.cs
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\staticwebassets\msbuild.MVC DAY 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC DAY 1.props
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC DAY 1.props
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC DAY 1.props
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\scopedcss\bundle\MVC DAY 1.styles.css
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\scopedcss\projectbundle\MVC DAY 1.bundle.scp.css
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\MVC DAY 1.dll
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\refint\MVC DAY 1.dll
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\MVC DAY 1.pdb
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\MVC DAY 1.genruntimeconfig.cache
+C:\Users\Pav\OneDrive - Lambton College\Sem 3\ASP .NET\IN CLASS\MVC DAY 1\MVC DAY 1\obj\Debug\net8.0\ref\MVC DAY 1.dll
