@@ -1,0 +1,18 @@
+﻿@model EmployeeApp.Models.Employee
+
+<h2>Employee Details</h2>
+
+@if (Model != null)
+{
+    <p><strong>Employee ID:</strong> @Model.EmployeeID</p>
+    <p><strong>First Name:</strong> @Model.FirstName</p>
+    <p><strong>Last Name:</strong> @Model.LastName</p>
+    <p><strong>Job Title:</strong> @Model.JobTitle</p>
+    <p><strong>Salary:</strong> @Model.Salary</p>
+}
+else
+{
+    <p>@ViewBag.Message</p>
+}
+
+<a href="@Url.Action("Browse", "Employee")" class="btn btn-primary">Next Employee</a>
